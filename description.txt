@@ -1,0 +1,14 @@
+index
+NameThe brand and model of the car.
+LocationThe location in which the car is being sold or is available for purchase.
+YearThe year or edition of the model.
+Kilometers_DrivenThe total kilometres driven in the car by the previous owner(s) in KM.
+Fuel_TypeThe type of fuel used by the car. (Petrol / Diesel / Electric / CNG / LPG)
+TransmissionThe type of transmission used by the car. (Automatic / Manual)
+Owner_TypeWhether the ownership is Firsthand, Second hand or other.
+MileageThe standard mileage offered by the car company in kmpl or km/kg
+EngineThe displacement volume of the engine in cc.
+PowerThe maximum power of the engine in bhp.
+SeatsThe number of seats in the car.
+New_PriceThe price of a new car of the same model.
+PriceThe price of the used car in INR Lakhs.
